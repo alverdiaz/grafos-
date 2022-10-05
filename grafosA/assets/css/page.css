@@ -1,0 +1,29 @@
+#mynetwork {
+	height: 30rem;
+}
+
+
+div.seccion {
+	height: 10rem;
+	text-align:center;
+}
+
+div.title {
+	height: 5rem;
+	text-align:center;
+}
+
+#mynetwork, div.seccion,div.title {
+	background:lightgray;
+	border: 2px solid;
+	margin:0 auto;
+	max-width: 50rem;
+}
+
+body {
+	background:gray;
+}
+
+div.resultado {
+	margin-top: 2rem;
+}
